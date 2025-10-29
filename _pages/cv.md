@@ -15,24 +15,28 @@ Education
 * M.S. in Communications Engineering, National Chiao Tung University, 2012
 * B.S. in Communications Engineering, National Chiao Tung University, 2010
 
-<!---
 Work experience
 ======
- * Spring 2024: Academic Pages Collaborator
- * GitHub University
- * Duties includes: Updates and improvements to template
- * Supervisor: The Users
+ * 2026 - Present: Postdoctoral Researcher
+ * AIST, Japan
 
- * Fall 2015: Research Assistant
- * GitHub University
- * Duties included: Merging pull requests
- * Supervisor: Professor Hub
+ * 2023 - 2025: Postdoctoral Researcher
+ * University of Bonn, Germany
+ * Advisor: Prof. Dr. Lucie Flek
 
- * Summer 2015: Research Assistant
- * GitHub University
- * Duties included: Tagging issues
- * Supervisor: Professor Git
-  
+ * 2019 - 2023: Research Assistant
+ * Paderborn University, Germany
+ * Supervisor: Prof. Dr. Henning Wachsmuth
+
+ * 2017 - 2019: Research Assistant
+ * Bauhaus-Universität Weimar, Germany
+ * Supervisor: Prof. Dr. Benno Stein
+
+ * 2013 - 2017: Research Assistant
+ * Academia Sinica, Taiwan
+ * Supervisor: Dr. Lun-Wei Ku
+   
+<!---
 Skills
 ======
 * Skill 1
@@ -63,6 +67,7 @@ Teaching
   {% endfor %}</ul>
 
 --->
+
 Service and leadership
 ======
 * To-be added
