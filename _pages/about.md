@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to Dr. Wei-Fan Chen's personal website."
+title: "Welcome to Dr. Wei-Fan Chen's personal website"
 author_profile: true
 redirect_from: 
   - /about/
