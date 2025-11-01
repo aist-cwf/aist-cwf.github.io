@@ -188,6 +188,7 @@ exclude:
   - Rakefile
   - README
   - tmp
+  - template
   - vendor
 keep_files:
   - .git
