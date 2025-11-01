@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * PhD in Computer Science, Paderborn University, Germany, 2024
-* MS in Communications Engineering, National Chiao Tung University, 2012
-* BS in Communications Engineering, National Chiao Tung University, 2010
+* MS in Communications Engineering, National Chiao Tung University, Taiwan, 2012
+* BS in Communications Engineering, National Chiao Tung University, Taiwan, 2010
 
 Work experience
 ======
