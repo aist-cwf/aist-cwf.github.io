@@ -23,7 +23,7 @@ repository               : "aist-cwf/aist-cwf.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "formal_photo-43.png"
   name             : "Dr. Wei-Fan Chen"
   pronouns         : # example: "she/her"  
   bio              : "NLP, AI-Ethics, and Computational Argumentation Researcher"
