@@ -9,5 +9,4 @@ redirect_from:
 
 Welcome!
 
-If you are reading this, this website is still under construction.
-More information will be added in the future.
+This is my personal website, which I started after moving to Japan for work. Here you can find my publications, talks, and the latest news about my academic career.
