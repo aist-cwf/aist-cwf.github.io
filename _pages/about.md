@@ -6,6 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
+> **"Driving NLP research through human needs to solve real-world problems."**
 
 Welcome!
 
